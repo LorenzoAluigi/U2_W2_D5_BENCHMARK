@@ -1,0 +1,11 @@
+* {
+  font-size: 0.9rem;
+}
+
+#logo {
+  height: 3em;
+}
+
+.ahover {
+  background-color: white !important;
+}
